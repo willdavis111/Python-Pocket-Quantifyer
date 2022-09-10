@@ -1,0 +1,9 @@
+tis program provides 3 calculator options for finding earth quantities common in the field of site work estimation
+
+the first option is benching one wall on a sit and estimates the dirt quantity in cubic yards to ccreat a safe work area
+
+the second option is for benching the area around an excavation to meet osha standards. this option expands the arae-
+ to meet necesary benching but does not include the initial excavated area
+
+the third option is for estimating excavtion and different back filling quantities for the instalation of building footers
+
